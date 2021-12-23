@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+#text-box {
+  width: 90vw;
+  margin: 1rem 1rem 0.5rem 1rem;
+  border-radius: 3px;
+  border-width: 3px;
+  border-color: rgb(28, 153, 28);
+}
+#input-lead {
+  width: 115x;
+  height: 35px;
+  margin: 1rem 0.5rem 1rem 1rem;
+  font-weight: 500;
+  border-radius: 45px;
+  background-color: #18ad72;
+
+  color: #fff;
+  border: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+li {
+  margin-top: 5px;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #5f9341;
+}
+
+#delete-lead {
+  width: 115x;
+  height: 35px;
+  font-weight: 500;
+  border-radius: 45px;
+  background-color: #c91212;
+  color: #fff;
+  border: none;
+}
+#save-tab {
+  width: 115x;
+  height: 35px;
+  margin: 1rem 0.5rem 1rem 1rem;
+  font-weight: 500;
+  border-radius: 45px;
+  background-color: royalblue;
+  color: #fff;
+  border: none;
+}
+button {
+  margin: 5px;
+}
